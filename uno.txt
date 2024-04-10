@@ -2,3 +2,4 @@ numeros diversos aleatorios
 2
 6
 87
+paso de poner numeros
