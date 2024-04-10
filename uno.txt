@@ -1,0 +1,4 @@
+numeros diversos aleatorios
+2
+6
+87
